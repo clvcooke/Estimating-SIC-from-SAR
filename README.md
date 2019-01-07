@@ -1,2 +1,2 @@
 # Estimating Sea Ice Concentration From SAR
-Supporting code for "State of the Art Sea Ice Concentration Estimates using Convolutional Neural Networks Trained With Passive Microwave Data"
+Supporting code for "SEstimating Sea Ice Concentration from SAR: Training Convolutional Neural Networks with Passive Microwave Data"
